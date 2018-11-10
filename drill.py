@@ -1,4 +1,4 @@
-import basic.py
+import basic
 
 
 class drill(object):
